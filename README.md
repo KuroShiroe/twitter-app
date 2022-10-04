@@ -23,6 +23,14 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
+https://user-images.githubusercontent.com/95000458/193720584-c1688e6b-3805-46f9-a347-2694ba77da2d.mp4
+
+
+https://user-images.githubusercontent.com/95000458/193720601-6109fb59-21ef-4408-9daf-ad42eb1bcace.mp4
+
+
+
+
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
